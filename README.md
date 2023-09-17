@@ -55,7 +55,7 @@ namespace PALINDROME
 }
 ~~~
 ## Output:
-![out](op1.png)
+![out](op.png)
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
